@@ -3,8 +3,20 @@
 sudo apt install libavutil-dev libavcodec-dev libavformat-dev libswscale-dev
 `
 
-### Example proyect:
-https://github.com/bitmovin/libdash
+### Example proyects:
+- https://github.com/bitmovin/libdash
+- https://github.com/illuspas/Node-Media-Server
+- https://github.com/ireader/media-server
+
+### Resources
+#### HLS
+  - https://developer.apple.com/streaming/
+  - https://tools.ietf.org/html/draft-pantos-hls-rfc8216bis-04
+  - https://tools.ietf.org/html/rfc8216
+
+#### DASH
+  - [Overview](./w13533-MPEG-DASH-Overview.doc)
+  - [Implementation](./w14865_TR_23009-3-2ed_r6.docx)
 
 ### Normative Parts
 
