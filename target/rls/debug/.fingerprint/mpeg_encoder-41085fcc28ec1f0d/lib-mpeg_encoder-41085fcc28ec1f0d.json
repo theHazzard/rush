@@ -1,0 +1,1 @@
+{"rustc":804226499018287853,"features":"[]","target":17846307859974627459,"profile":14672114853574311971,"path":1864682807569451785,"deps":[["ffmpeg-sys v2.8.9","ffmpeg_sys",5673820209755324925],["libc v0.2.51","libc",15944469158813929156]],"local":[{"Precalculated":"0.2.1"}],"rustflags":[],"edition":"Edition2015"}

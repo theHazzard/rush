@@ -1,0 +1,9 @@
+[package]
+name = "rush"
+description = "mpeg dash in rust - PROTOTYPE for STUDING!"
+version = "0.1.0"
+authors = ["Enzo Strongoli <thehazzard@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+mpeg_encoder = "0.2.1"
